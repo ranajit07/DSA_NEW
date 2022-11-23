@@ -1,5 +1,5 @@
 public class stack {
    public static void main (String [] args){
-       int i=14;
+       int i=19;
    }
 }
